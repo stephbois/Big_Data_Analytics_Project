@@ -8,7 +8,6 @@ CIND812 Big Data Analytics Project
 - [Working Dataset (Jupiter Notebook and Python Code)](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/working_dataset)
 - [Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) <br />
 - [Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review) <br />
-- Final Results and Project Report(comming soon) <br />
-- Presentation(comming soon) <br />
-
-## Abstract
+- Initial Results and Code (coming soon) <br />
+- Final Results and Project Report(coming soon) <br />
+- Presentation(coming soon) <br />
