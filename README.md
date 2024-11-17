@@ -6,7 +6,7 @@ CIND812 Big Data Analytics Project
 The [Dataset](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/dataset) folder contains links to the following:
 - [The original dataset]()
 - [The cleaned dataset]() generated during data cleaning.
-- [The one hot encoded dataset]() generated while answering Q1.
+- A one hot encoded dataset was generated while answering Q1, but the file is too large to upoad to GitHub.
 
 The [Exploratory Data Analysis (EDA) report](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/EDA) was generated during the initial data cleaning.
 
