@@ -23,8 +23,8 @@ The [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/m
 [Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) <br />
 [Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review) <br />
 Initial Results and Code submissions included: <br />
--  [Video walkthourhg](https://drive.google.com/file/d/1Q1rK0oNMhuGa5c-VqPpcckCXybwUtgVF/view?usp=drive_link) of data analysis approach and initial results for answering Q1.
--  Initial code as .ipynb and .html for data cleaning and answering Q1 of the research project (available in the [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/python_code) folder
+-  [Video walk-through](https://drive.google.com/file/d/1Q1rK0oNMhuGa5c-VqPpcckCXybwUtgVF/view?usp=drive_link) of data analysis approach and initial results for answering Q1.
+-  Initial .ipynb and .html code for data cleaning and Q1 (available in the [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/python_code) folder)
 
 Final Results and Project Report(coming soon) <br />
 Presentation(coming soon) <br />
