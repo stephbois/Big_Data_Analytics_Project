@@ -3,8 +3,8 @@ CIND812 Big Data Analytics Project
 
 ## Table of Content
 ***Links to folders*** <br />
-The [Dataset](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/dataset) folder contains links to the following:
-- [The original dataset]()
+The [Dataset](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/dataset) folder contains links to the following .csv files:
+- [The original dataset](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/dataset/diabetes_012_health_indicators_BRFSS2015.csv)
 - [The cleaned dataset]() generated during data cleaning.
 - A one hot encoded dataset was generated while answering Q1, but the file is too large to upoad to GitHub.
 
