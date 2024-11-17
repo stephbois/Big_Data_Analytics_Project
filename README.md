@@ -19,7 +19,7 @@ The [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/m
 - [Answering Q2 (coming soon)]()
 - [Answering Q3 (coming soon)]{}
 
-***This repository is further divided into folders which contain files submitted at each stage of the project: :
+***This repository is further divided into folders which contain files submitted at each stage of the project:*** <br />
 [Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) <br />
 [Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review) <br />
 [Initial Results and Code] which includes() <br />
