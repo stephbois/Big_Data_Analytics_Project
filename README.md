@@ -14,19 +14,17 @@ CIND812 Big Data Analytics Project
 - [Data cleaning and descriptive statistics IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/CDC%20Diabetes%20Health%20Indicators%20Data%20Cleaning.ipynb)
 - [Answering Q1 HTML](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q1%20CDC%20Diabetes%20Health%20Indicators.html)
 - [Answering Q1 IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q1%20CDC%20Diabetes%20Health%20Indicators.ipynb)
-- [Answering Q2 (coming soon)]()
-- [Answering Q3 (coming soon)]{}
+- [Answering Q2 (coming soon)]
+- [Answering Q3 (coming soon)]
 
-***This repository is further divided into folders which contain files submitted at each stage of the project:*** <br />
+***[Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract)*** <br />
 
-[Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) <br />
+***[Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review)*** <br />
 
-[Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review) <br />
-
-Initial Results and Code submissions included: <br />
+***Initial Results and Code submissions include:*** <br />
 -  [Video walk-through](https://drive.google.com/file/d/1Q1rK0oNMhuGa5c-VqPpcckCXybwUtgVF/view?usp=drive_link) of data analysis approach and initial results for answering Q1.
--  Initial .ipynb and .html code for data cleaning and Q1 (available in the [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/python_code) folder)
+-  Initial code (please see [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/python_code) folder for Data Cleaning and Q1 code)
 
-Final Results and Project Report(coming soon) <br />
+***Final Results and Project Report(coming soon)*** <br />
 
-Presentation(coming soon) <br />
+***Presentation(coming soon)*** <br />
