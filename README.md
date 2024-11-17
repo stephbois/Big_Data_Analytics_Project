@@ -17,9 +17,9 @@ CIND812 Big Data Analytics Project
 - [Answering Q2 (coming soon)]
 - [Answering Q3 (coming soon)]
 
-***[Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract)*** <br />
+***The [Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) is the initial submitted abstrsact*** <br />
 
-***[Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review)*** <br />
+***The [Literature Review, Data Description, and Approach](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/literature_review) is a document containing the refined abstract, literature review, and proposed project*** <br />
 
 ***Initial Results and Code submissions include:*** <br />
 -  [Video walk-through](https://drive.google.com/file/d/1Q1rK0oNMhuGa5c-VqPpcckCXybwUtgVF/view?usp=drive_link) of data analysis approach and initial results for answering Q1.
