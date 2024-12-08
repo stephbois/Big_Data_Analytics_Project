@@ -29,6 +29,6 @@ CIND812 Big Data Analytics Project
 -  [Video walk-through](https://drive.google.com/file/d/1Q1rK0oNMhuGa5c-VqPpcckCXybwUtgVF/view?usp=drive_link) of data analysis approach and initial results for answering Q1.
 -  Initial code (please see [Python_Code](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/python_code) folder for Data Cleaning and Q1 code)
 
-***Final Results and Project Report(coming soon)*** <br />
+***Final Results are outlined in the Final Project Report(coming soon)*** <br />
 
 ***Presentation(coming soon)*** <br />
