@@ -14,8 +14,12 @@ CIND812 Big Data Analytics Project
 - [Data cleaning and descriptive statistics IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/CDC%20Diabetes%20Health%20Indicators%20Data%20Cleaning.ipynb)
 - [Answering Q1 HTML](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q1%20CDC%20Diabetes%20Health%20Indicators.html)
 - [Answering Q1 IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q1%20CDC%20Diabetes%20Health%20Indicators.ipynb)
-- [Answering Q2 (coming soon)]
-- [Answering Q3 (coming soon)]
+- [Answering Q2 HTML](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q2%20CDC%20Diabetes%20Health%20Indicators.html)
+- [Answering Q2 IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q2%20CDC%20Diabetes%20Health%20Indicators.ipynb)
+- [Answering Q3 HTML](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q3%20CDC%20Diabetes%20Health%20Indicators.html)
+- [Answering Q3 IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q3%20CDC%20Diabetes%20Health%20Indicators.ipynb)
+- [Answering Q4 HTML](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q4%20CDC%20Diabetes%20Health%20Indicatorrs.html)
+- [Answering Q4 IPYNB](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/python_code/Q4%20CDC%20Diabetes%20Health%20Indicatorrs.ipynb)
 
 ***The [Projet Abstract](https://github.com/stephbois/Big_Data_Analytics_Project/tree/main/project_files/abstract) is the initial submitted abstrsact*** <br />
 
