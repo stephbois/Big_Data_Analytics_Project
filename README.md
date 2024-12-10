@@ -32,4 +32,4 @@ CIND812 Big Data Analytics Project
 ***[Final Project Report (.pdf)](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/final_results_and_code/CIND820%20Final%20Results%20and%20Project%20Report%20Stephanie%20Boissonneault.pdf)*** <br />
 ***[Final Project Report (.docx)](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/final_results_and_code/CIND820%20Final%20Results%20and%20Project%20Report%20Stephanie%20Boissonneault.docx)*** <br />
 
-***[Presentation(ppt](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/presentation/CIND820%20Project%20Presentation%20Stephanie%20Boissonneault.pptx)*** <br />
+***[Presentation(ppt)](https://github.com/stephbois/Big_Data_Analytics_Project/blob/main/project_files/presentation/CIND820%20Project%20Presentation%20Stephanie%20Boissonneault.pptx)*** <br />
